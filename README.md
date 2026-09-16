@@ -1,8 +1,10 @@
 16/09/2026
 
-<!-- notify 1/2 · ILbwnHit -->
-## Notification 1/2
-Round: Round 1
-To: moosette2002@yahoo.com, mooseyba@yahoo.com
-At: 2026-09-16 17:36:12
-Id: ILbwnHit
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: moosganze@yahoo.com, mooshoo_ware28@yahoo.com
+At: 2026-09-16 17:37:23
+Id: S388mmmD
